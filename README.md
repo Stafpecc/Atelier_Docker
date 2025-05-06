@@ -32,3 +32,8 @@ Le slide: https://docs.google.com/presentation/d/1Ff5k6PXHMKTt3F8NLtrC-7WJuEmwHy
 
 - **Exercice supplémentaire :** Utiliser une image Docker Windows pour exécuter une commande Windows (`dir` ou autre).
 
+## Commandes
+
+- https://docs.docker.com/reference/
+
+- https://www.google.fr/
